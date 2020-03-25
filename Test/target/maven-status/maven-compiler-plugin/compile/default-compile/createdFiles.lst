@@ -1,0 +1,6 @@
+com\my\web\UserServlet.class
+com\my\util\DataSourceUtils.class
+com\my\util\DruidUtils.class
+com\my\dao\UserDao.class
+com\my\service\UserService.class
+com\my\domain\TestUser.class
